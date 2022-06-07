@@ -2,7 +2,7 @@
 
 ## * This repository is under construction. *
 
-In this mini project I worked with a geojson file of Bangladesh to create interactive maps of Covid infection, population count and population to covid ratio. The images are provided below. To checkout the interactive maps run this ![link](<https://github.com/Mahirobot/Covid_cases-Bangladesh/blob/main/BD%20Cloropleth%20Map/Choropleth_Map_of_covid_cases_in_BD.ipynb>) file according to the #cell_numbers provided.
+In this mini project I worked with a geojson file of Bangladesh to create interactive maps of Covid infection, population count and population to covid ratio. The images are provided below. To checkout the interactive maps run this ![linked](<https://github.com/Mahirobot/Covid_cases-Bangladesh/blob/main/BD%20Cloropleth%20Map/Choropleth_Map_of_covid_cases_in_BD.ipynb>) file according to the #cell_numbers provided.
 
 ## Map for covid cases
 ![covid_cases](/images/Covid_cases.png "covid_cases")
